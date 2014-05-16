@@ -1,0 +1,12 @@
+Powerswitch
+
+Our switches finally arrived.  
+I bought from CPC (http://www.cpc.co.uk) the PL11247, which is a 2A power switch.  
+It requires no soldering and can be installed with the minimum of tools.
+
+1. Open up the switch, screws on this one are underneath.  You will see the terminals inside, loosen them now.
+2. Cut the lead from the PSU.  I left about 6 inches on the end.  You may wish to leave more or less depending on your individual setup.
+3. Trim down the insulation on the outer cable to about 20mm and the insulation on the inner cables to leave about 5mm of copper wire exposed.
+4. On this particular switch, I made the permanent connection the negative (black) wire and the positive (red) wire on the switch.  This is normal practice.
+5. Tighten everything down once the wires are in place.
+6. Test and enjoy the feeling that you won't be replacing Pi's because Year 4 have trashed the power sockets.
